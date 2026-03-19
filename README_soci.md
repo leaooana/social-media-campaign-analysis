@@ -109,7 +109,7 @@ The interactive Tableau dashboard includes:
 - Conversion Rate by Campaign Goal (bar chart)
 - Cross filtering — clicking any chart filters all others simultaneously
 
-🔗 **[View Interactive Dashboard]** — (paste Tableau Public link here)
+🔗 **[View Interactive Dashboard]** — https://public.tableau.com/views/SocialMediaCampaignPerformanceAnalysis/SocialMediaCampaignPerformanceAnalysis?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
@@ -133,9 +133,9 @@ Compared to my previous project this analysis introduced:
 ---
 
 ## Author
-**Your Full Name**
+**Leaooana Matsoha**
 Aspiring Data Analyst | Excel | MySQL | Tableau
 
-[LinkedIn Profile](paste your LinkedIn URL here)
-[Tableau Public Profile](paste your Tableau Public URL here)
-[Previous Project — Superstore Sales Analysis](paste your GitHub link here)
+[LinkedIn Profile](www.linkedin.com/in/leaooana-matsoha)
+[Tableau Public Profile](https://public.tableau.com/app/profile/leaooana.matsoha)
+
